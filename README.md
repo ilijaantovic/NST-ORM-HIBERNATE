@@ -1,0 +1,1 @@
+"# NST-ORM-HIBERNATE-FullTextSearch" 
